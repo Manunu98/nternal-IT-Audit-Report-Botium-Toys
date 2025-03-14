@@ -1,4 +1,4 @@
-# Interna-IT-Audit-Report-Botium-Toys
+# Internal-IT-Audit-Report-Botium-Toys
 1. Introduction
 
 Botium Toys is a growing small business that sells toys online and in-store. With increasing demand in the U.S. and internationally, its IT department must ensure compliance with data security regulations, particularly regarding online payments and operations in the European Union (E.U.).
